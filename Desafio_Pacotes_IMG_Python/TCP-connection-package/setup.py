@@ -9,12 +9,12 @@ with open("requirements.txt") as f:
 setup(
     name="TCPconnection",
     version="0.0.1",
-    author="Vinicius Costa",
+    author="Vinícius",
     author_email="viniciusgcto@gmail.com",
     description="Simple TCP connection",
     long_description=page_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/viniciusgcto/DIO/tree/main/Desafio_Pacotes_IMG_Python",
+    url="my_github_repository_project_link"
     packages=find_packages(),
     install_requires=requirements,
     python_requires='>=3.8',
