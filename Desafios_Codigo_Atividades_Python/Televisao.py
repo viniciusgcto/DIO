@@ -7,9 +7,6 @@ class Televisao:                 # Criando a classe Televisão
         else:
             self.ligada = True
 
-def teste():
-    print("Teste")
-
 if __name__ == '__main__':   # Quando próprio arquivo é executado, nome é o 'main', se for chamado de fora, nome é diferente do 'main' (nome do arquivo) e não executa
     televisao = Televisao()  # Passando a classe para uma variável
 
