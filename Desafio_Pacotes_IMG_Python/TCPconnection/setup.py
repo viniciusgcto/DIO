@@ -8,7 +8,7 @@ with open("requirements.txt") as f:
 
 setup(
     name="TCPconnection",
-    version="0.0.1",
+    version="0.0.2",
     author="Vinicius Costa",
     author_email="viniciusgcto@gmail.com",
     description="Simple TCP connection",
